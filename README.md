@@ -6,7 +6,7 @@ Moreover, Testing troubleshooting methods, devised innovative solutions, and doc
 
 <h2>About my github</h2>
 
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizeAhsan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaarshad20&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaarshad20&theme=radical&hide=html&layout=compact&card_width=445)](https://github.com/osamaarshad20/github-readme-stats)
 <!---
